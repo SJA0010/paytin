@@ -18,6 +18,7 @@ Below is the network architecture of Paytin:
 
 | Network Architecture |
 |----------------------|
+| ![Network Image](https://github.com/SJA0010/paytin/blob/main/full%20stack%20app.png) |
 | ![Network Image](https://github.com/SJA0010/paytin/blob/main/1.jpg) |
 | ![Network Image](https://github.com/SJA0010/paytin/blob/main/2.jpg) |
 | ![Network Image](https://github.com/SJA0010/paytin/blob/main/3.jpg) |
