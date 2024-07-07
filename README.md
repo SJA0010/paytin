@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Paytin is an innovative financial technology solution designed to streamline online transactions and enhance digital payment security. Our platform offers a seamless user experience, enabling users to perform various financial operations with ease and confidence. Paytin aims to revolutionize the way individuals and businesses handle their financial transactions by providing a robust, reliable, and secure payment gateway.
+I am thrilled to share my experience of developing a E-Commerce full stack app for a online transaction of national means . Alhumduillah, my client was highly satisfied with my attractive UI and vast knowledge of widgets and packages. My code was smooth and clean with captivating ui. This was 3 months long project, but the waiting worth it. I along with my team  were engaged in this project. And I'm committed to satisfy my clients in future with same spirit. This app is about sending and receiving money. you can also pay for online expenses, bills, or lend money to your friends. This makes life and marketing easy. Online transaction apps are the back-bone for all E-commerce marketing
 
 ## Key Features
 
@@ -20,16 +20,25 @@ Below is the network architecture of Paytin:
 |----------------------|
 | ![Network Image](https://github.com/SJA0010/paytin/blob/main/1.jpg) |
 | ![Network Image](https://github.com/SJA0010/paytin/blob/main/2.jpg) |
+| ![Network Image](https://github.com/SJA0010/paytin/blob/main/3.jpg) |
+| ![Network Image](https://github.com/SJA0010/paytin/blob/main/4.jpg) |
+| ![Network Image](https://github.com/SJA0010/paytin/blob/main/5.jpg) |
+| ![Network Image](https://github.com/SJA0010/paytin/blob/main/6.jpg) |
 
 ## About Me
 
-I am [Your Name], the creator of Paytin. With a strong background in software development and a passion for financial technology, I aim to build solutions that make digital transactions more accessible and secure for everyone. 
+Hey, My name is Subhan Abbasi. I'm a professional Flutter full stack developer, expert in Front
+end (web and apps). I have done 15+ Flutter projects. I have master in the skills of hybrid
+ application( IOS and Android) with an experience of 2 years as a intern at 7-Skies Solution. During my
+ Journey of Software Engineering, I achieved a lot of experiences including leadership skills and
+ learnt to differentiate code standards having 2 years experience enables me to read your ideas and
+ and create a master-piece out of them. My first priority is your satisfaction. 
 
 ### Contact Information
 
-- **GitHub**: [Your GitHub Profile](https://github.com/your-github-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username)
-- **Email**: your.email@example.com
+- **GitHub**: [Your GitHub Profile](https://github.com/SJA0010)
+- **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/subhan-abbasi-03b01b252)
+- **Email**: MSJA010@gmail.com
 
 ## How to Get Started
 
